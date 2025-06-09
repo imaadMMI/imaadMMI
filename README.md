@@ -85,7 +85,17 @@ Thanks for stopping by!
 
 🔹 In my spare time, I explore game mechanics and storytelling through interactive projects, some of which have earned international recognition like an Honourable Mention in NASA's Space Apps Challenge.
 
-I'm always open to collaborating on exciting projects—especially those at the intersection of AI and Game design, as well as any impactful project!.
+I'm always open to collaborating on exciting projects—especially those at the intersection of AI and Game design, as well as any impactful project!
+
+---
+
+## 🧠 Featured Work
+
+- 🦯 **AAAI 2025 Publication** – Developed a smartphone-based assistive system for visually impaired users using YOLOv11 + MiDaS  
+- 🤖 **Autonomous Robot Navigation** – Created reactive and evolved neural controllers in Webots for maze-solving  
+- 🌦️ **Weather Classification** – Trained ML models on 40+ years of weather data, achieving 95% accuracy  
+- 🏙️ **UAE Rental Dashboard** – Designed an interactive D3.js-based data dashboard for market analysis  
+- 🎮 **Game Developer** – Built and published multiple 3D Unity games like *Rizzy Runner* and *Alen: Lost and Hunted*, also achieved an Honourable Mention at the international level of the NASA Space Apps Challenge!
 
 ---
 
