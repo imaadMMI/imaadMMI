@@ -72,13 +72,12 @@ Thanks for stopping by!
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imaadMMI&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imaadMMI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" height="250" alt="description" />
+</p>
 
 ---
-<img align="center" height="150" src= https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif />
+## About Me
 🔹 I'm a First Class Honours graduate in Computer Science (Artificial Intelligence) from Heriot-Watt University, Dubai.
 
 🔹 I'm passionate about solving real-world problems through AI, robotics, full-stack applications, and game development. Whether it's building assistive tech for the visually impaired using YOLOv11 and MiDaS, simulating intelligent robot behavior using Genetic Algorithms in Webots, or creating physics-based 3D games in Unity—I love turning complex ideas into working systems.
@@ -157,7 +156,14 @@ Here are some of the tools, languages, and frameworks I’ve worked with across 
 
 ###
 
+## Here are my stats!
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imaadMMI&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imaadMMI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+---
 ###
 
 ## 📫 Connect With Me
