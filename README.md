@@ -91,7 +91,8 @@ I'm always open to collaborating on exciting projects—especially those at the 
 
 ## 🧠 Featured Work
 
-- 🦯 **AAAI 2025 Publication** – Developed a smartphone-based assistive system for visually impaired users using YOLOv11 + MiDaS  
+- 🦯 **AAAI 2025 Publication** – Developed a smartphone-based assistive system for visually impaired users using YOLOv11 + MiDaS
+- 💻 **Co-Lab Web Application** – Managed full-stack development of a collaborative React + Firebase platform with server-side rendering and API modeling
 - 🤖 **Autonomous Robot Navigation** – Created reactive and evolved neural controllers in Webots for maze-solving  
 - 🌦️ **Weather Classification** – Trained ML models on 40+ years of weather data, achieving 95% accuracy  
 - 🏙️ **UAE Rental Dashboard** – Designed an interactive D3.js-based data dashboard for market analysis  
