@@ -68,7 +68,7 @@ Thanks for stopping by!
 
 <h2 align="left">Hi 👋! My name is Muhammad Imaad and I'm a Computer Science (AI) graduate from Dubai, UAE</h2>
 
-<img align="right" height="150" src= https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif />
+
 
 ###
 
@@ -78,7 +78,7 @@ Thanks for stopping by!
 </div>
 
 ---
-
+<img align="center" height="150" src= https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif />
 🔹 I'm a First Class Honours graduate in Computer Science (Artificial Intelligence) from Heriot-Watt University, Dubai.
 
 🔹 I'm passionate about solving real-world problems through AI, robotics, full-stack applications, and game development. Whether it's building assistive tech for the visually impaired using YOLOv11 and MiDaS, simulating intelligent robot behavior using Genetic Algorithms in Webots, or creating physics-based 3D games in Unity—I love turning complex ideas into working systems.
