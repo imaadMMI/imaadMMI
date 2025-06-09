@@ -68,6 +68,8 @@ Thanks for stopping by!
 
 <h2 align="left">Hi 👋! My name is Muhammad Imaad and I'm a Computer Science (AI) graduate from Dubai, UAE</h2>
 
+<img align="right" height="150" src= https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif />
+
 ###
 
 <div align="center">
@@ -99,59 +101,84 @@ I'm always open to collaborating on exciting projects—especially those at the 
 - 🎮 **Game Developer** – Built and published multiple 3D Unity games like *Rizzy Runner* and *Alen: Lost and Hunted*, also achieved an Honourable Mention at the international level of the NASA Space Apps Challenge!
 
 ---
+## 🛠️ Tech Stack & Tools
 
-
-###
-<img align="right" height="150" src= https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif />
-
+Here are some of the tools, languages, and frameworks I’ve worked with across AI, full-stack development, robotics, and game dev:
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" title="Kotlin" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="Android" title="Android Studio / CameraX / TTS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" title="React.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" title="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  
-  <!-- Unreal Engine -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unreal engine logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="Unity" title="Unity + C#" />
   <img width="12" />
-  
-  <!-- Android -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" title="C#" />
   <img width="12" />
-  
- 
-  <!-- Kotlin -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="Blender" title="Blender" />
   <img width="12" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="Unreal Engine" title="Unreal Engine" />
+  <img width="12" />
 </div>
 
+---
+
+### 🧠 AI & Machine Learning
+- TensorFlow, PyTorch, scikit-learn, TFLite, YOLOv11, MiDaS, OpenCV  
+- Focused on assistive tech, vision-based navigation, and real-time inference on mobile devices  
+
+### 🖥️ Full Stack & Frontend
+- React.js, HTML, CSS, JavaScript, Firebase, PostgreSQL, MongoDB  
+- Built dashboards, collaborative apps, and multi-role platforms with performance in mind  
+
+### 🤖 Robotics & Simulation
+- Webots for Behavior-Based & Evolutionary Robotics  
+- Genetic Algorithms + Neural Networks for autonomous agents  
+
+### 🎮 Game Development
+- Unity, Unreal Engine, Blender, C#, GDScript  
+- Created 3D turn-based multiplayer, AI NPCs, physics-based games, and game trailers  
+
+### 📊 Data & Visualization
+- D3.js, Python, Pandas, Matplotlib, Seaborn  
+- Designed animated, interactive dashboards for real-world datasets  
+
+
 ###
+
+
+###
+
+## 📫 Connect With Me
+
+I'm always excited to connect with like-minded developers, researchers, and creatives!  
+Whether you're building something cool, want to chat about AI, or just stumbled upon my profile — feel free to reach out 🚀
 
 <div align="left">
   <a href="mailto:imaadmuhammad14@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-imaad-muhammad-ismail-b65973265/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://github.com/imaadMMI" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
 </div>
+
+---
+
 
 ###
 
