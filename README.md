@@ -75,9 +75,24 @@ Thanks for stopping by!
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imaadMMI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+---
+
+🔹 I'm a First Class Honours graduate in Computer Science (Artificial Intelligence) from Heriot-Watt University, Dubai.
+
+🔹 I'm passionate about solving real-world problems through AI, robotics, full-stack applications, and game development. Whether it's building assistive tech for the visually impaired using YOLOv11 and MiDaS, simulating intelligent robot behavior using Genetic Algorithms in Webots, or creating physics-based 3D games in Unity—I love turning complex ideas into working systems.
+
+🔹 I've worked with a wide range of technologies including Python, Kotlin, TensorFlow, PyTorch, React.js, Webots, Unity, and more. I enjoy bridging research and practical application, often building solutions that run directly on mobile or edge devices using TensorFlow Lite.
+
+🔹 In my spare time, I explore game mechanics and storytelling through interactive projects, some of which have earned international recognition like an Honourable Mention in NASA's Space Apps Challenge.
+
+I'm always open to collaborating on exciting projects—especially those at the intersection of AI and Game design, as well as any impactful project!.
+
+---
+
+
 ###
 <img align="right" height="150" src= https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif />
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -97,6 +112,20 @@ Thanks for stopping by!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  
+  <!-- Unreal Engine -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unreal engine logo" />
+  <img width="12" />
+  
+  <!-- Android -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo" />
+  <img width="12" />
+  
+ 
+  <!-- Kotlin -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
+  <img width="12" />
+
 </div>
 
 ###
