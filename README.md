@@ -75,7 +75,8 @@ Thanks for stopping by!
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imaadMMI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+###
+<img align="right" height="150" src= https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif />
 ###
 
 <div align="left">
