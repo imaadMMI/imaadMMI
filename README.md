@@ -172,7 +172,7 @@ I'm always excited to connect with like-minded developers, researchers, and crea
 Whether you're building something cool, want to chat about AI, or just stumbled upon my profile — feel free to reach out 🚀
 
 <div align="left">
-  <a href="mailto:imaadmuhammad14@gmail.com" target="_blank">
+  <a href="mailto:muhammadimaad.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-imaad-muhammad-ismail-b65973265/" target="_blank">
