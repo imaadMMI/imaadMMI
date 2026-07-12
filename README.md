@@ -66,7 +66,7 @@ Python · Kotlin · React.js · Unity · Blender · Firebase · TensorFlow · Gi
 Thanks for stopping by!
 -->
 
-<h2 align="left">Hi 👋! My name is Muhammad Imaad and I'm a Computer Science (AI) graduate from Dubai, UAE</h2>
+<h2 align="left">Hi 👋! My name is Muhammad Imaad and I'm a Machine Learning and Big Data Student at UoW Australia</h2>
 
 
 
