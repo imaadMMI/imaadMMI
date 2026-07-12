@@ -78,7 +78,7 @@ Thanks for stopping by!
 
 ---
 ## About Me
-🔹 I'm a First Class Honours graduate in Computer Science (Artificial Intelligence) from Heriot-Watt University, Dubai.
+🔹 I'm a First Class Honours graduate in Computer Science (Artificial Intelligence) from Heriot-Watt University, Dubai, and I'm currently pursuing a Master's Degree in Machine Learning and Big Data from the University of Wollongong, Australia.
 
 🔹 I'm passionate about solving real-world problems through AI, robotics, full-stack applications, and game development. Whether it's building assistive tech for the visually impaired using YOLOv11 and MiDaS, simulating intelligent robot behavior using Genetic Algorithms in Webots, or creating physics-based 3D games in Unity—I love turning complex ideas into working systems.
 
