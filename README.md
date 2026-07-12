@@ -94,11 +94,11 @@ I'm always open to collaborating on exciting projects—especially those at the 
 
 - 🦯 **AAAI 2025 Publication** – Developed a smartphone-based assistive system for visually impaired users using YOLOv11 + MiDaS
 - 💻 **Co-Lab Web Application** – Managed full-stack development of a collaborative React + Firebase platform with server-side rendering and API modeling
-- 🤖 **Autonomous Robot Navigation** – Created reactive and evolved neural controllers in Webots for maze-solving  
-- 🌦️ **Weather Classification** – Trained ML models on 40+ years of weather data, achieving 95% accuracy  
-- 🏙️ **UAE Rental Dashboard** – Designed an interactive D3.js-based data dashboard for market analysis  
-- 🎮 **Game Developer** – Built and published multiple 3D Unity games like *Rizzy Runner* and *Alen: Lost and Hunted*, also achieved an Honourable Mention at the international level of the NASA Space Apps Challenge!
-
+- 🤖 **AI Genesis Hackathon** – Developed ProcurePilot, an agentic multi-stage AI pipeline to automate vendor shortlisting and procurement workflows
+- 🌦️ **Weather Classification** – Trained ML models on 40+ years of weather data, achieving 95% accuracy
+- ⚔️ **Coding Samurai Internship** – Developed customer churn prediction models and built an end-to-end NLP sentiment analysis pipeline for tweet classification
+- 📜 **Shakespeare SLM Chatbot** – Built a RAG pipeline adapting a Small Language Model to answer questions with grounded evidence from Shakespearean texts
+- 📊 **AI Analytics Dashboard** – Rebuilt an interactive dashboard and developed backend APIs for ontology databases to track AI agent performance, user behavior, and customer retention metrics.
 ---
 ## 🛠️ Tech Stack & Tools
 
