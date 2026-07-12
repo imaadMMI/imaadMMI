@@ -133,9 +133,10 @@ Here are some of the tools, languages, and frameworks I’ve worked with across 
 
 ---
 
-### 🧠 AI & Machine Learning
+### 🧠 Machine Learning & Data Engineering
 - TensorFlow, PyTorch, scikit-learn, TFLite, YOLOv11, MiDaS, OpenCV  
-- Focused on assistive tech, vision-based navigation, and real-time inference on mobile devices  
+- Focused on NLPs, machine learning, model training and evaluation, assistive tech, vision-based navigation, and real-time inference on mobile devices
+- Worked on extensive data processing pipelines to gather actionable insights from redundant underlying company data 
 
 ### 🖥️ Full Stack & Frontend
 - React.js, HTML, CSS, JavaScript, Firebase, PostgreSQL, MongoDB  
